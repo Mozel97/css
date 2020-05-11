@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/541/142/non_2x/abstract-beautiful-sunshine-purple-color-gradient-background-vector.jpg");
+    font-family: Arial;
+    background-size: auto 120vh;
+    height: 100vh;
+  }
+  
+  .menu{
+    background-color: white;
+  }
+  a{
+    text-decoration: none;
+    color: #1a2390d4;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    color: #1a2390d4;
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
